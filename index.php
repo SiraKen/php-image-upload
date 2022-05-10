@@ -9,5 +9,6 @@
 			<input type="file" name="img_file">	
 			<button type="submit">Upload</button>
 		</form>
+		<a href="./index2.php">for multiple files</a>
 </body>
 </html>
